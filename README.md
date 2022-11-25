@@ -23,7 +23,7 @@ Android App developer (kotlin)
 [내홈피](https://jujinkim.com/)    
 [유전알고리즘으로 비행기 혼자 총알피하는거 졸전(얍삽한 플레이로 진화하는거 보고 현타옴)](https://www.youtube.com/watch?v=yISf3vsUQpc)  
 Unity로 1:1 랜플레이 FPS같은거 만들어봄  
-Unity+KinectV2로 사람 춤추는거 따라 춤추는 캐릭터 프로그램 만듬. 2016 서울 루시 축제에서 서울도서관에 미디어파사드 프로젝터로 전시. 근데 난 면접보느라 세팅만 하고 현장 못봄;;
+Unity+KinectV2로 사람 춤추는거 따라 춤추는 캐릭터 프로그램 만듬. 2016 서울 루시 축제에서 서울도서관에 미디어파사드 프로젝터로 전시.  
 [웹캠+OpenCV+빔프로젝터로 미니당구대 인식해서 큐대 대면 예상경로 뿌려주는거.](https://www.youtube.com/watch?v=DUXIdIJ6ylM)  
 세종대왕과 아이들이 함께 사진 속에!! AR 포토존 만들고 세종문화회관에서 전시. 꼬마들이랑 부모님들 많이 좋아하셨음. 몇 안되는 보람찼던 프로젝트.   
 
